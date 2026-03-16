@@ -7,3 +7,8 @@ The program:
 - trains a linear regression model
 - predicts new values
 - visualizes the result using matplotlib
+
+## Libraries
+- numpy
+- matplotlib
+- scikit-learn
